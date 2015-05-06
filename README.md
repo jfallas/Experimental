@@ -1,3 +1,3 @@
 # Experimental
 
-## This is a James Test
+## james folder: contains notes and code from jcaple 
